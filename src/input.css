@@ -9,7 +9,6 @@
     .row {
         @apply flex flex-wrap flex-row mx-[-12px];
     }
-
     .col-3 {
         @apply w-[25%] px-[12px];
     }
